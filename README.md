@@ -1,5 +1,7 @@
 # BSE vs NSE: Market Insights & Volume Analysis
 
+<img width="1492" height="1000" alt="Screenshot 2025-09-25 085120" src="https://github.com/user-attachments/assets/fa865ec7-476d-4c65-b2ab-9b4e074a3927" />
+
 ## 📊 Project Overview
 An interactive Tableau dashboard analyzing **BSE (Bombay Stock Exchange)** and **NSE (National Stock Exchange)** .  
 The dashboard provides key insights into trading volumes, market share, and derivatives-to-cash ratios, helping understand India’s capital market dynamics.
